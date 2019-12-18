@@ -8,7 +8,7 @@ between teachers and students.
 How to Join This Classroom?
 
 Join a class with a class code:
-user will go to website  and click Sign In. Sign in with google Account. For example, you@yourschool.edu or you@gmail.com. ...
+user will go to website  and click Sign In. Sign in with google Account. For example, abc@gmail.com or sadhg@sadklh@gmail.com
 At the top, click Add Join class.
 Enter the class code your teacher gave you and click Join. A class code consists of 6 or 7 letters or numbers.
 
