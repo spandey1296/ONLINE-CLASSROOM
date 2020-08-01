@@ -22,4 +22,4 @@ CHITKARA UNIVERSITY
 
 HIMACHAL PRADESH
 
-shivant47@gmailcom
+shivant47@gmail.com
