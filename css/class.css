@@ -1,0 +1,26 @@
+.slider_area .single_slider .illastrator_png img {
+    width: 100%;
+  }
+  /* line 19, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_reset.scss */
+a:focus,
+.button:focus, button:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+a:focus {
+  text-decoration: none;
+}
+
+a:focus,
+a:hover,
+.portfolio-cat a:hover,
+.footer -menu li a:hover {
+  text-decoration: none;
+}
+
+a,
+button {
+  color: #1F1F1F;
+  outline: medium none;
+}
