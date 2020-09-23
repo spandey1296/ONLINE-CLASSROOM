@@ -1,25 +1,18 @@
-# ONLINE-CLASSROOM
+<h1>TutorChalk - online pltform for students and Tutors</h1>
 
+<p> Dear Friends,
+Welcome to coder2hacker Blog.
 
-Online Classroom is a free web service,for schools,students,and beginners that aims to simplify creating, distributing,
-and grading assignments in a paperless way. The primary purpose of this Classroom is to streamline the process of sharing files
-between teachers and students.
+This Platform is made for Students who are willing to learn to code and become a developer in the field of computer engineering. You can’t learn anything when you’re trying to look like the smartest person in the room.“Learning is not child’s play; we cannot learn without pain.”Please Cooperate. Enjoy Learning. It will help to innovate and analysis with coding and ethical hacking. In this education tutorial, we will provide in-depth knowledge of various theories and practical aspects in software languages. We create our tutorials from the perspective of real-time applications. Our goal is to reach people worldwide who are looking for carrier in IT/Software industry, which provides high-quality training to the Aspiring persons, we do our work with pride and passion.</p>
 
-How to Join This Classroom?
+<h3> Regards<br>
 
-Join a class with a class code:
-user will go to website  and click Sign In. Sign in with google Account. For example, abc@gmail.com or sadklh@gmail.com
-At the top, click Add Join class.
-Enter the class code your teacher gave you and click Join. A class code consists of 6 or 7 letters or numbers.
+SHIVANT KUMAR PANDEY <br>
 
-This is in developement process. If you want to suggest about this project you share with me.
+CHITKARA UNIVERSITY<br>
 
-Regards
+HIMACHAL PRADESH<br>
 
-SHIVANT KUMAR PANDEY 
+shivant47@gmail.com<br>
 
-CHITKARA UNIVERSITY
-
-HIMACHAL PRADESH
-
-shivant47@gmail.com
+</h3>
